@@ -147,7 +147,7 @@ a:focus {
     padding: 100px 0;
     text-align: center;
     color: #fff;
-    background: url(../img/intro-bg.jpg) no-repeat bottom center scroll;
+    background: url(../img/bg_intro.jpg) no-repeat bottom center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -317,6 +317,8 @@ a:focus {
     color: #000;
     background-color: #42dca3;
 }
+
+.obfuscateemail { unicode-bidi: bidi-override; direction: rtl; }
 
 ul.banner-social-buttons {
     margin-top: 0;
